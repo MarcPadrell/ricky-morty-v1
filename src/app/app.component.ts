@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ricky-morty-v1';
+
+  constructor() { }
+
+  ngOnInit() {
+
+  }
+
 }
