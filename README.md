@@ -12,4 +12,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## About Us
 
-![image](https://user-images.githubusercontent.com/79224406/172346240-a1c0b7c1-f01f-411e-8c4f-d8d24afa25df.png)
+![image](https://user-images.githubusercontent.com/79224406/172346454-ac5f3ceb-cad9-4675-8965-1b0df417a59b.png)
