@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Home
 
-![image](https://user-images.githubusercontent.com/79224406/172345906-442c7278-7419-4533-8569-c44393ab7b78.png)
+![image](https://user-images.githubusercontent.com/79224406/172346356-f53187d7-50ed-41fb-9cfc-c454e3fcbf93.png)
 
 ## Characters
 
